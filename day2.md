@@ -11,7 +11,9 @@
    ```          
 5. created table using syntax.
    ```sql
-    create table <databasename>.<tablename>;
+    create table <databasename>.<tablename>(column1 datatype,
+    column2 datatype,
+    column3 datatype);
    ```
 6. inserted values using syntax
    ```sql
